@@ -3,6 +3,7 @@ A streamlined, one-step solution for comprehensive data analysis, enabling users
 
 # Requirements
 Python 3+
+
 Required Libraries:
   - `pandas`
   - `matplotlib`
