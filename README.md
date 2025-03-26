@@ -7,7 +7,6 @@ Python 3+
 Required Libraries:
   - `pandas`
   - `matplotlib`
-  - `seaborn`
 
 # Script Usage
 python <script_file> <input_file>
