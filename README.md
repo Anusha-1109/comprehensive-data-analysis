@@ -14,7 +14,7 @@ Required Libraries:
 # Script Usage
 python <script_file> <input_file>
 
-# Timlines
+# Timelines
 | No of columns      | Completion dates |
 |--------------------|------------------|
 | 1 column           | Done             |
