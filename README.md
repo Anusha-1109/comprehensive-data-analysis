@@ -13,3 +13,12 @@ Required Libraries:
 
 # Script Usage
 python <script_file> <input_file>
+
+# Timlines
+| No of columns      | Completion dates |
+|--------------------|------------------|
+| 1 column           | Done             |
+| 2 columns          | 14/5/2025        |
+| Multiple columns   | 04/06/25         |
+
+
