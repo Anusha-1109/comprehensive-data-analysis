@@ -6,9 +6,13 @@ The script is executed via the command line, taking a file path as an argument. 
 The script serves multiple purposes:
 
 1- Exploratory Data Analysis (EDA): Provides detailed descriptive statistics (e.g., mean, median, percentiles, null counts) to summarize data distributions.
+
 2- Hypothesis Testing: Conducts statistical tests (e.g., t-test, Wilcoxon test, Chi-Square test) to evaluate hypotheses about means, medians, proportions, or associations.
+
 3- Normality Assessment: Performs tests (Shapiro-Wilk, Kolmogorov-Smirnov, Anderson-Darling) to check if numeric data follows a normal distribution.
+
 4- Data Visualization: Generates plots (e.g., box plots, histograms, frequency plots) to visually represent data distributions and relationships.
+
 5- Reproducibility: Saves statistical results, visualizations, and a log file for documentation and future reference.
 
 # Requirements
