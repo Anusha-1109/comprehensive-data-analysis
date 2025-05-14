@@ -1,7 +1,7 @@
 # Comprehensive data analysis
-A Python-based command-line tool designed to perform comprehensive statistical analysis on one, two and multiple columns of data from CSV or tab-delimited text files. Built to supports both numeric (continuous or discrete) and categorical data, offering a range of descriptive statistics, hypothesis tests, normality assessments. It is ideal for researchers, data analysts, and scientists who need to explore datasets, test hypotheses, and generate textual summaries of statistical findings.
+A Python-based command-line tool designed to perform comprehensive statistical analysis on one, two and multiple columns of data from CSV or tab-delimited text files. Built to support both numeric (continuous or discrete) and categorical data, offering a range of descriptive statistics, hypothesis tests, normality assessments.
 
-The script is executed via the command line, taking a file path as an argument. It interactively prompts users to select analysis type (single-column, two-column or multiple-column), specify columns, and provide parameters such as custom percentiles or hypothesized values for hypothesis tests. Outputs include a statistical summary file, few visualizations (e.g., scatter plots, box plots), and a detailed log file capturing all terminal interactions.
+The script is executed via the command line, taking a file path/file as an argument. It prompts users to select analysis type (single-column, two-column or multiple-column), specify column names, and provide parameters such as custom percentiles or hypothesized values for hypothesis tests. Outputs include a statistical summary file, few visualizations (e.g., scatter plots, box plots), and a detailed log file capturing all terminal interactions.
 
 The script serves multiple purposes:
 
