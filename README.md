@@ -64,5 +64,7 @@ python <script_file> <input_file>
 
 # Timelines
 1 column statistical analysis (30/4/2025)
+
 2 column statistical analysis (21/5/2025)
-Multiple column statistical analysis (25/6/2025)![Uploading image.png…]()
+
+Multiple column statistical analysis (25/6/2025)
